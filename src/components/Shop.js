@@ -403,12 +403,4 @@ export const Shop = () => {
   /* <div class="lds-ellipsis"><div>🔸</div><div>🔹</div><div>🔶</div><div>🔷</div></div>
 <div className="loading"><h4>🔸</h4><h4>🔹</h4><h4>🔶</h4><h4>🔷</h4></div> */
 }
-// items.map(item => {
-//   return (
-//     <h1 key={item.itemId}>
-//       <Link style={NavStyle} to={`/shop/${item.itemId}`}>
-//         {item.item.name}
-//       </Link>
-//     </h1>
-//   );
-// })
+
